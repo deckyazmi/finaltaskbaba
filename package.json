@@ -1,0 +1,25 @@
+{
+  "name": "finaltaskbaba",
+  "version": "1.0.0",
+  "description": "just installation code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deckyazmi/finaltaskbaba.git"
+  },
+  "keywords": [
+    "-"
+  ],
+  "author": "deckyazmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deckyazmi/finaltaskbaba/issues"
+  },
+  "homepage": "https://github.com/deckyazmi/finaltaskbaba#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
