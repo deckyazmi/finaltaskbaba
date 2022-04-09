@@ -1,1 +1,1 @@
-"HELLO WORLD"
+<h1 align="center">Hi !!, DeckyAzmi here !!♂️</h1><h3 align="center"><em>A Noob Programer who want to learn anything??</em></h3><div align="center"><h2 align="center"><em>when I learn a new programing languange</em></h2><a href="#language-and-tools"><img align='left' src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="100%" height="50%"/></a></div>
